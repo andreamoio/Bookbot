@@ -43,7 +43,9 @@ z: 235
 
 
 ### Try it with any book!
-You can use this tool with any text file. I recommend downloading more classics from [Project Gutenberg](https://www.gutenberg.org/) and dropping the `.txt` files into the `books/` folder to see their stats!
+You can use this tool with any text file.
+I recommend downloading more classics from [Project Gutenberg](https://www.gutenberg.org/).
+Drop the `.txt` files into the `books/` folder to see their stats!
 
 To analyze a new book, just change the command:
 `python3 main.py books/your_new_book.txt`
