@@ -40,7 +40,7 @@ z: 235
 ë: 2
 ô: 1
 ============= END ===============
-```text
+
 
 ### Try it with any book!
 You can use this tool with any text file. I recommend downloading more classics from [Project Gutenberg](https://www.gutenberg.org/) and dropping the `.txt` files into the `books/` folder to see their stats!
