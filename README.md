@@ -39,7 +39,7 @@ z: 235
 ê: 7
 ë: 2
 ô: 1
-============= END ===============
+
 
 
 ### Try it with any book!
@@ -48,5 +48,8 @@ I recommend downloading more classics from [Project Gutenberg](https://www.guten
 Drop the `.txt` files into the `books/` folder to see their stats!
 
 To analyze a new book, just change the command:
+
 `python3 main.py books/your_new_book.txt`
+
+============= END ===============
 
