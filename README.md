@@ -39,7 +39,7 @@ z: 235
 ê: 7
 ë: 2
 ô: 1
-
+============= END ===============
 
 
 ### Try it with any book!
@@ -51,5 +51,5 @@ To analyze a new book, just change the command:
 
 `python3 main.py books/your_new_book.txt`
 
-============= END ===============
+
 
