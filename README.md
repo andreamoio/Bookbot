@@ -1,8 +1,8 @@
-Bookbot 🤖 is my first python Boot.dev project! 
+Bookbot 🤖 is my first python [Boot.dev](https://www.boot.dev) project! 
 
 It is a simple program designed to analyze literary texts and print stats about characters usage found within. The following is the output for Mary Shelley's Frankenstein:  
 
-
+```text
 ============ BOOKBOT ============
 Analyzing book found at books/frankenstein.txt
 ----------- Word Count ----------
@@ -40,3 +40,11 @@ z: 235
 ë: 2
 ô: 1
 ============= END ===============
+```text
+
+### Try it with any book!
+You can use this tool with any text file. I recommend downloading more classics from [Project Gutenberg](https://www.gutenberg.org/) and dropping the `.txt` files into the `books/` folder to see their stats!
+
+To analyze a new book, just change the command:
+`python3 main.py books/your_new_book.txt`
+
